@@ -7,8 +7,7 @@
 
 * 2018년 7월 27일 [Seoul.js Lightning Talk](https://festa.io/events/49) 에서 발표
 * 예제 코드 : [seokju-na/angular-cdk-examples](https://github.com/seokju-na/angular-cdk-examples)
-
-<script async class="speakerdeck-embed" data-id="84a236bccfef4e89a638dc617190d5b4" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+* [발표 자료](https://speakerdeck.com/seokjuna/angular-cdkro-nopeun-kweolritiyi-ui-gaebalhagi)
 
 
 ## Articles
