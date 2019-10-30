@@ -6,7 +6,7 @@
 #### 비동기를 우아하게 처리하기 위한 Observable
 
 * 2019년 10월 26일, [FEConf 2019](https://2019.feconf.kr)에서 발표
-* [Auto-Complete 에제 코드](https://github.com/seokju-na/rxjs-autocomplete-example)
+* Auto-Complete 예제 코드: [seokju-na/rxjs-autocomplete-example](https://github.com/seokju-na/rxjs-autocomplete-example)
 * [발표 자료](https://slides.com/seokjume/observable)
 
 #### Zone과 fakeAsync
