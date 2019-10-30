@@ -3,6 +3,17 @@
 
 ## Speaks
 
+#### 비동기를 우아하게 처리하기 위한 Observable
+
+* 2019년 10월 26일, [FEConf 2019](https://2019.feconf.kr)에서 발표
+* [Auto-Complete 에제 코드](https://github.com/seokju-na/rxjs-autocomplete-example)
+* [발표 자료](https://slides.com/seokjume/observable)
+
+#### Zone과 fakeAsync
+
+* 2019년 8월 1일, 토스팀(https://toss.im) 사내 엔지니어링 데이에서 발표
+* [발표 자료](https://drive.google.com/open?id=14iqzQcqxeZtyjWWTdxv7xrmFyqKUyIo_)
+
 #### 프론트엔드 개발 끝장내기(endgame) (feat.Angular)
 
 * 2019년 6월 22일, GDG Campus Korea가 주최한 [FRONT-ENDGAME: 여러분의 프런트엔드를 구할 어벤져스가 찾아옵니다](https://festa.io/events/317) 행사에서 발표
